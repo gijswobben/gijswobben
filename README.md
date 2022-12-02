@@ -3,7 +3,6 @@ __*I love innovation*__, and I've been studying and practicing it for a long tim
 
 Data is at the core of almost any modern innovation. From Facebook to cars and high tech robots, they would not exist without large quantities and varieties of data. In my work as a __*Data Scientist*__ I make sense of this “Big Data” and come up with small or large innovations and business propositions, that make organizations data driven. I team up with Software developers and domain experts and capture their knowledge and understanding in models and business logic.
 
----
 
 ## Github stats
 <p align="left">
